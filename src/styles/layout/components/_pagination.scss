@@ -1,3 +1,5 @@
+@use '../../helpers/' as *;
+
 .pagination {
   &__list {
     display: flex;

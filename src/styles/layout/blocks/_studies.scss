@@ -1,3 +1,5 @@
+@use '../../helpers/' as *;
+
 .studies {
   @include desktop-above {
     padding: 70px 60px;

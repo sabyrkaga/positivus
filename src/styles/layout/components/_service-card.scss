@@ -1,3 +1,5 @@
+@use '../../helpers/' as *;
+
 .service-card {
   display: flex;
   justify-content: space-between;
